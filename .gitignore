@@ -1,0 +1,22 @@
+# --- KiCad тимчасові та резервні файли (НЕ зберігаємо в git) ---
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups/
+_autosave-*
+\#auto_saved_files#
+*.lck
+~*.lck
+
+# Кеш та локальні (per-user) налаштування
+fp-info-cache
+*.kicad_prl
+
+# Згенеровані файли (за потреби можна закоментувати, якщо хочеш їх зберігати)
+# *.net          # нетлист
+# gerbers/       # вихідні Gerber-файли для виробництва
+# *.zip
+
+# --- Системне сміття macOS / Windows ---
+.DS_Store
+Thumbs.db
