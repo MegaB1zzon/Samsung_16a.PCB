@@ -20,3 +20,4 @@ fp-info-cache
 # --- Системне сміття macOS / Windows ---
 .DS_Store
 Thumbs.db
+.history/
